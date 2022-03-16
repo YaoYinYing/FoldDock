@@ -1,0 +1,16 @@
+DockQ 0.047 Fnat 0.000 iRMS 13.659 LRMS 22.116 Fnonnat 1.000 models_CASP/run4/6n64_A-6n64_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6n64_A-6n64_B.pdb 
+DockQ 0.031 Fnat 0.000 iRMS 15.411 LRMS 28.061 Fnonnat 1.000 models_CASP/run4/6tmm_A-6tmm_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6tmm_A-6tmm_B.pdb 
+DockQ 0.025 Fnat 0.000 iRMS 11.779 LRMS 33.881 Fnonnat 1.000 models_CASP/run4/6tmm_A-6tmm_D/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6tmm_A-6tmm_D.pdb 
+DockQ 0.213 Fnat 0.533 iRMS 13.725 LRMS 26.513 Fnonnat 0.903 models_CASP/run4/6vn1_A-6vn1_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6vn1_A-6vn1_B.pdb 
+DockQ 0.449 Fnat 0.000 iRMS 1.969 LRMS 1.239 Fnonnat 1.000 models_CASP/run4/6vn1_H-6vn1_L/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6vn1_H-6vn1_L.pdb 
+DockQ 0.003 Fnat 0.000 iRMS 27.133 LRMS 100.052 Fnonnat 1.000 models_CASP/run4/6vn1_A-6vn1_H/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6vn1_A-6vn1_H.pdb 
+DockQ 0.588 Fnat 0.750 iRMS 1.923 LRMS 6.425 Fnonnat 0.838 models_CASP/run4/6ya2_A-6ya2_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6ya2_A-6ya2_B.pdb 
+DockQ 0.944 Fnat 1.000 iRMS 0.514 LRMS 2.181 Fnonnat 0.885 models_CASP/run4/6xod_A-6xod_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6xod_A-6xod_B.pdb 
+DockQ 0.018 Fnat 0.000 iRMS 17.739 LRMS 38.034 Fnonnat 1.000 models_CASP/run4/7bgl_A-7bgl_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/7bgl_A-7bgl_B.pdb 
+DockQ 0.014 Fnat 0.000 iRMS 21.392 LRMS 43.963 Fnonnat 1.000 models_CASP/run4/7bgl_a-7bgl_b/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/7bgl_a-7bgl_b.pdb 
+DockQ 0.035 Fnat 0.000 iRMS 16.824 LRMS 26.040 Fnonnat 1.000 models_CASP/run4/6v4v_A-6v4v_A/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6v4v_A-6v4v_A.pdb 
+DockQ 0.705 Fnat 0.700 iRMS 1.487 LRMS 2.675 Fnonnat 0.791 models_CASP/run4/7m5f_A-7m5f_C/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/7m5f_A-7m5f_C.pdb 
+DockQ 0.645 Fnat 0.923 iRMS 3.342 LRMS 3.636 Fnonnat 0.852 models_CASP/run4/7cwp_C-7cwp_D/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/7cwp_C-7cwp_D.pdb 
+DockQ 0.008 Fnat 0.000 iRMS 16.193 LRMS 65.150 Fnonnat 1.000 models_CASP/run4/6r17_C-6r17_D/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6r17_C-6r17_D.pdb 
+DockQ 0.502 Fnat 0.000 iRMS 0.796 LRMS 5.235 Fnonnat 1.000 models_CASP/run4/6r17_A-6r17_C/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6r17_A-6r17_C.pdb 
+DockQ 0.447 Fnat 0.000 iRMS 1.510 LRMS 3.651 Fnonnat 1.000 models_CASP/run4/6r17_A-6r17_B/unrelaxed_model_1_split.pdb /home/gabriele/Desktop/projects/FoldDock/data/CASP14/PDB/6r17_A-6r17_B.pdb 

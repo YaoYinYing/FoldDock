@@ -1,0 +1,12 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/Apache-2.0",
+    "codeRepository": "git+https://gitlab.com/ElofssonLab/FoldDock.git",
+    "dateCreated": "2022-02-02",
+    "datePublished": "2022-02-02",
+    "dateModified": "2022-02-02",
+    "issueTracker": "https://gitlab.com/ElofssonLab/FoldDock/issues/",
+    "name": "FoldDock",
+    "description": "his repository contains the simultaneous folding and docking protocol FoldDock.\nThe protocol has been developed on 216 heterodimeric complexes from Dockground (http://dockground.compbio.ku.edu/downloads/unbound/benchmark4.tar.bz2)\nand tested on 1481 heterodimeric complexes extracted from the PDB (https://www.nature.com/articles/s41467-021-21636-z).\nThe protocol uses the recently published state-of-the-art end-to-end protein structure predictor AlphaFold2 (https://github.com/deepmind/alphafold) to predict the structure of heterodimeric complexes.\nThe success rate of the final protocol is 63% on the test set. By analyzing the predicted interfaces, we are able to distinguish accurate models with an AUC of 0.94 on the test set. For more information on this pipeline and its performance see\nImproved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments"
+}

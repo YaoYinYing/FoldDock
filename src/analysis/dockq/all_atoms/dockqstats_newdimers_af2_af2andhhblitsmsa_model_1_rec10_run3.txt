@@ -1,0 +1,208 @@
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7EIV_A-7EIV_C.pdb
+Native : ../../../../data/new_dimers/PDB/7EIV_A-7EIV_C.pdb
+Number of equivalent residues in chain A 293 (ligand)
+Number of equivalent residues in chain B 524 (receptor)
+Fnat 1.000 12 correct of 12 native contacts
+Fnonnat 0.915 130 non-native of 142 model contacts
+iRMS 2.410
+LRMS 8.238
+DockQ 0.598 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7EL1_A-7EL1_E.pdb
+Native : ../../../../data/new_dimers/PDB/7EL1_A-7EL1_E.pdb
+Number of equivalent residues in chain A 1034 (receptor)
+Number of equivalent residues in chain B 98 (ligand)
+Fnat 0.000 0 correct of 6 native contacts
+Fnonnat 1.000 75 non-native of 75 model contacts
+iRMS 29.392
+LRMS 71.234
+DockQ 0.006 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7K01_1-7K01_6.pdb
+Native : ../../../../data/new_dimers/PDB/7K01_1-7K01_6.pdb
+Number of equivalent residues in chain A 368 (receptor)
+Number of equivalent residues in chain B 351 (ligand)
+Fnat 0.700 7 correct of 10 native contacts
+Fnonnat 0.951 135 non-native of 142 model contacts
+iRMS 3.333
+LRMS 13.061
+DockQ 0.389 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7LDG_A-7LDG_B.pdb
+Native : ../../../../data/new_dimers/PDB/7LDG_A-7LDG_B.pdb
+Number of equivalent residues in chain A 216 (receptor)
+Number of equivalent residues in chain B 49 (ligand)
+Fnat 0.875 7 correct of 8 native contacts
+Fnonnat 0.923 84 non-native of 91 model contacts
+iRMS 1.853
+LRMS 22.950
+DockQ 0.464 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7LF7_A-7LF7_M.pdb
+Native : ../../../../data/new_dimers/PDB/7LF7_A-7LF7_M.pdb
+Number of equivalent residues in chain A 220 (receptor)
+Number of equivalent residues in chain B 78 (ligand)
+Fnat 0.000 0 correct of 0 native contacts
+Fnonnat 1.000 44 non-native of 44 model contacts
+iRMS 13.518
+LRMS 36.264
+DockQ 0.021 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7LF7_B-7LF7_M.pdb
+Native : ../../../../data/new_dimers/PDB/7LF7_B-7LF7_M.pdb
+Number of equivalent residues in chain A 214 (receptor)
+Number of equivalent residues in chain B 78 (ligand)
+Fnat 0.000 0 correct of 3 native contacts
+Fnonnat 1.000 45 non-native of 45 model contacts
+iRMS 13.169
+LRMS 36.064
+DockQ 0.022 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7MEZ_A-7MEZ_B.pdb
+Native : ../../../../data/new_dimers/PDB/7MEZ_A-7MEZ_B.pdb
+Number of equivalent residues in chain A 990 (receptor)
+Number of equivalent residues in chain B 547 (ligand)
+Fnat 1.000 5 correct of 5 native contacts
+Fnonnat 0.948 91 non-native of 96 model contacts
+iRMS 2.006
+LRMS 9.576
+DockQ 0.600 
+****************************************************************
+*                       DockQ                                  *
+*   Scoring function for protein-protein docking models        *
+*   Statistics on CAPRI data:                                  *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Reference: Sankar Basu and Bjorn Wallner, DockQ: A quality *
+*   measure for protein-protein docking models, submitted      *
+*                                                              *
+*   For the record:                                            *
+*   Definition of contact <5A (Fnat)                           *
+*   Definition of interface <10A all heavy atoms (iRMS)        *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+*                                                              *
+****************************************************************
+Model  : /proj/berzelius-2021-29/users/x_patbr/results/FoldDock/new_dimers/af_std_and_hhblits_msas/model_1/recycle_10/run_3/rewritten_pdbs_all_atoms/7NJ0_A-7NJ0_C.pdb
+Native : ../../../../data/new_dimers/PDB/7NJ0_A-7NJ0_C.pdb
+Number of equivalent residues in chain A 1188 (receptor)
+Number of equivalent residues in chain B 270 (ligand)
+Fnat 0.000 0 correct of 21 native contacts
+Fnonnat 1.000 11 non-native of 11 model contacts
+iRMS 23.719
+LRMS 34.330
+DockQ 0.021 

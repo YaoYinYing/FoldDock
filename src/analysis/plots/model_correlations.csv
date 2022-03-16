@@ -1,0 +1,13 @@
+,Comparison,hhblits_model_1_ens8,hhblits_model_1_rec10,af2stdmsa_model_1_ens8,af2stdmsa_model_1_rec10,af2andhhblitsmsa_model_1_ens8,af2andhhblitsmsa_model_1_rec10,hhblits_model_1_ptm_ens8,hhblits_model_1_ptm_rec10,af2stdmsa_model_1_ptm_ens8,af2stdmsa_model_1_ptm_rec10,af2andhhblitsmsa_model_1_ptm_ens8,af2andhhblitsmsa_model_1_ptm_rec10
+0,hhblits_model_1_ens8,0.0,0.96,0.51,0.53,0.78,0.72,0.98,0.93,0.57,0.53,0.81,0.75
+1,hhblits_model_1_rec10,0.96,0.0,0.53,0.54,0.78,0.72,0.95,0.9,0.56,0.52,0.81,0.75
+2,af2stdmsa_model_1_ens8,0.51,0.53,0.0,0.89,0.72,0.66,0.51,0.54,0.81,0.78,0.64,0.63
+3,af2stdmsa_model_1_rec10,0.53,0.54,0.89,0.0,0.65,0.62,0.53,0.56,0.8,0.75,0.68,0.64
+4,af2andhhblitsmsa_model_1_ens8,0.78,0.78,0.72,0.65,0.0,0.89,0.79,0.74,0.65,0.64,0.89,0.86
+5,af2andhhblitsmsa_model_1_rec10,0.72,0.72,0.66,0.62,0.89,0.0,0.72,0.67,0.6,0.62,0.83,0.83
+6,hhblits_model_1_ptm_ens8,0.98,0.95,0.51,0.53,0.79,0.72,0.0,0.94,0.56,0.51,0.81,0.75
+7,hhblits_model_1_ptm_rec10,0.93,0.9,0.54,0.56,0.74,0.67,0.94,0.0,0.59,0.51,0.77,0.74
+8,af2stdmsa_model_1_ptm_ens8,0.57,0.56,0.81,0.8,0.65,0.6,0.56,0.59,0.0,0.9,0.71,0.68
+9,af2stdmsa_model_1_ptm_rec10,0.53,0.52,0.78,0.75,0.64,0.62,0.51,0.51,0.9,0.0,0.67,0.66
+10,af2andhhblitsmsa_model_1_ptm_ens8,0.81,0.81,0.64,0.68,0.89,0.83,0.81,0.77,0.71,0.67,0.0,0.93
+11,af2andhhblitsmsa_model_1_ptm_rec10,0.75,0.75,0.63,0.64,0.86,0.83,0.75,0.74,0.68,0.66,0.93,0.0
